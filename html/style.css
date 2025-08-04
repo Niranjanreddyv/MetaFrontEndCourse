@@ -1,0 +1,39 @@
+/* css selector */
+/* h1{
+    color: purple;
+} */
+
+
+/* id selector */
+#header1{
+    color: green;
+}
+/* class Selector */
+.para{
+    color: darkgoldenrod;
+}
+/* element with class selector */
+p.para1{
+    color: rebeccapurple;
+}
+
+ /* descendant selector */
+
+#blog h1 {
+  color: blue;
+}
+
+/* Multiple descendants */
+
+#blog div h1 {
+  color: orange;
+} 
+
+
+/* #blog > h1 {
+  color: blue;
+}  */
+
+a:hover{
+    color: orange;
+}
