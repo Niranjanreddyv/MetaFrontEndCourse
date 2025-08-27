@@ -1,0 +1,10 @@
+console.log(typeof(1));
+console.log(typeof(4.3));
+console.log(typeof("abc"));
+console.log(typeof(true));
+console.log(typeof(false));
+console.log(typeof(3>5));
+console.log(typeof(3<5));
+console.log(typeof([1,2,3,4]));
+console.log(typeof({x:1, y:2}));
+console.log(typeof(function fun(){conasole.log("hi")}));

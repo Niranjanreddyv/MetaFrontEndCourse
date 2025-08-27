@@ -4,7 +4,7 @@ console.log(a+b);
 console.log(a.length)
 console.log(a[0]);
 console.log(a[1]);
-console.log(a.charAt(2));
+console.log(a.charAt(2)); 
 console.log(a.toUpperCase());
 console.log(a);
 console.log(a.toLowerCase());

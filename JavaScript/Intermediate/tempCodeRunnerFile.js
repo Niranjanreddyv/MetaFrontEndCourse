@@ -1,3 +1,2 @@
-var decimal = Math.random();
-// console.log(decimal);
-// console.log(decimal*10);
+throw new Error();
+// console.log("Hello");
